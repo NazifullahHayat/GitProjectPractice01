@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tek school Data Driven Framework" duration-ms="19355" started-at="2020-07-06T23:51:18Z" finished-at="2020-07-06T23:51:38Z">
+    <groups>
+    </groups>
+    <test name="Login to Hotel Page" duration-ms="19355" started-at="2020-07-06T23:51:18Z" finished-at="2020-07-06T23:51:38Z">
+      <class name="tests.HotelLogin">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.HotelLogin@5bc79255]" name="beforeMethod" is-config="true" duration-ms="10711" started-at="2020-07-06T23:51:18Z" finished-at="2020-07-06T23:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginToHotelPage()[pri:0, instance:tests.HotelLogin@5bc79255]" name="loginToHotelPage" duration-ms="7861" started-at="2020-07-06T23:51:29Z" finished-at="2020-07-06T23:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToHotelPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.HotelLogin@5bc79255]" name="afterMethod" is-config="true" duration-ms="724" started-at="2020-07-06T23:51:37Z" finished-at="2020-07-06T23:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.HotelLogin -->
+    </test> <!-- Login to Hotel Page -->
+  </suite> <!-- Tek school Data Driven Framework -->
+</testng-results>
